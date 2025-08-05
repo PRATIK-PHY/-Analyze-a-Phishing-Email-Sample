@@ -68,4 +68,4 @@ This repository is ideal for:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/PRATIK-PHY/-Analyze-a-Phishing-Email-Sample.git
